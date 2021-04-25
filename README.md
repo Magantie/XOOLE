@@ -9,15 +9,14 @@
 
 
 ## I am learning 
-
 - 🔭 i am learning python
+- 🔭 i am also using linux
 
 ## I want to learn 
-
-- 🔭 i want to learn c++ ,sql ,R ,jquery ,javascript , html & css 
+- 🔭 i want to learn c++ ,sql ,R ,jquery ,javascript ,git ,html & css 
+- 🔭 i think i want to learn React ,sass
 
 ## I know
-
 - 🔭 error404!!!
 
 
