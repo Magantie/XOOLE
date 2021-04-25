@@ -5,16 +5,21 @@
 
 
 -->
-### Hi there, i am 
+### Hi i am xoole , i am learning languages 
 
 
 ## I am learning 
 
-- 🔭 i am learning python 
-- 🌱 i am also using linux 
-- 👯 i want to learn c++ , sql 
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 i am learning python
+
+## I want to learn 
+
+- 🔭 i want to learn c++ ,sql ,R ,jquery ,javascript , html & css 
+
+## I know
+
+- 🔭 error404!!!
+
 
 ### Spotify Playing 🎧
 
