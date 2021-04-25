@@ -10,7 +10,7 @@
 
 ## I want to learn 
 - 🔭 i want to learn c++ ,sql ,R ,jquery ,javascript ,git ,html & css 
-- 🔭 i think i want to learn React ,sass
+- 🔭 i think i want to learn React, Reakit ,sass
 
 ## I know
 - 🔭 error404!!!
