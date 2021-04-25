@@ -3,11 +3,6 @@
 <!--
 **XOOLE/XOOLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
--->
-### Hi i am xoole , i am learning languages 
-
-
 ## I am learning 
 - 🔭 i am learning python
 - 🔭 i am also using linux
