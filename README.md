@@ -2,7 +2,8 @@
 
 <!--
 **XOOLE/XOOLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
+  
 ## I am learning 
 - 🔭 i am learning python
 - 🔭 i am also using linux
