@@ -16,13 +16,13 @@
 - 🔭 error404!!!
 
 <br>
-
 <details>
   <summary>:zap: language Stats</summary>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOLE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
+<br>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
