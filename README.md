@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there !![alt text](https://cdn.discordapp.com/emojis/854583531422351401.gif?v=1 "Logo Title Text 1"  )
   
   
 ## I am learning 
