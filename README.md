@@ -8,7 +8,7 @@ while (alive) {
     repeat();
 }
 ```
-<details open>
+<details>
 <summary>stats</summary>
 <br>
   
