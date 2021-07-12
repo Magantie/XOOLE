@@ -1,4 +1,4 @@
-### hi , What's up?       ![alt text](https://im7.ezgif.com/tmp/ezgif-7-a25a81b3ac09.gif "Logo Title Text 1"  )
+### hi , What's up?       ![alt text](https://i.imgur.com/jifzsWP.gif "Logo Title Text 1"  )
   
   ```python
 while (alive) {
