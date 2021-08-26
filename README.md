@@ -13,8 +13,10 @@ while (alive) {
 ```
 
 <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOLE)](https://github.com/anuraghazra/github-readme-stats) [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/526350064877043727?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/526350064877043727)
+ 
+              https://github-readme-stats.vercel.app/api/top-langs/?username=pablohs1986&theme=dracula&hide=python,html,css
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOLE&bg=0D1117&hide_border)](https://github.com/anuraghazra/github-readme-stats) [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/526350064877043727?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/526350064877043727)
   
 
  
