@@ -16,7 +16,7 @@ while (alive) {
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOOLE)](https://github.com/anuraghazra/github-readme-stats)
   
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/526350064877043727?theme=dark&bg=010409&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/526350064877043727)
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/526350064877043727?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/526350064877043727)
  
 
 
